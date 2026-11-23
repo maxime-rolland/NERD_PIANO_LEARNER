@@ -1,0 +1,21 @@
+# Godot import caches and generated exports
+.game/
+**/.godot/
+**/.import/
+*.apk
+*.aab
+*.keystore
+*.jks
+*.p12
+*.log
+# Android / Gradle generated outputs
+**/.gradle/
+**/build/
+**/local.properties
+# OS and editors
+.DS_Store
+.idea/
+.vscode/
+# Local private audio diagnostic
+tests/private_recordings/
+*.wav.tmp
